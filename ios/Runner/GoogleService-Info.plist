@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>238392127151-u3sednlmimsf180lk8iflqac4vs73toq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.238392127151-u3sednlmimsf180lk8iflqac4vs73toq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjSoH8To4ehiT1BeCt_Glh-6cm5jc4j_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238392127151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rkmdaily.rkmDaily</string>
+	<key>PROJECT_ID</key>
+	<string>rkm-daily-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rkm-daily-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238392127151:ios:ddaee02d3d2d6e107d6e5a</string>
+</dict>
+</plist>

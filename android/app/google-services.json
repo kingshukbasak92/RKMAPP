@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "238392127151",
+    "project_id": "rkm-daily-app",
+    "storage_bucket": "rkm-daily-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238392127151:android:accfe7a769e486077d6e5a",
+        "android_client_info": {
+          "package_name": "com.rkmdaily.rkm_daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238392127151-b1134fajf33u6gkar2a76lqn67gso16k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rkmdaily.rkm_daily",
+            "certificate_hash": "c4d7a51b71daddcbd2cf7a0957e730741cae51b3"
+          }
+        },
+        {
+          "client_id": "238392127151-o0vl7i6p8o19d9f582ubpfr6kfu0d339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUuWCiOKiFquilwM6rRWhygbjWk-QgzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238392127151-o0vl7i6p8o19d9f582ubpfr6kfu0d339.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238392127151-u3sednlmimsf180lk8iflqac4vs73toq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rkmdaily.rkmDaily"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

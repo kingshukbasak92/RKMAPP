@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238392127151",
+    "project_id": "rkm-daily-app",
+    "storage_bucket": "rkm-daily-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238392127151:android:accfe7a769e486077d6e5a",
+        "android_client_info": {
+          "package_name": "com.rkmdaily.rkm_daily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUuWCiOKiFquilwM6rRWhygbjWk-QgzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
